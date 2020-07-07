@@ -1,0 +1,12 @@
+{
+  "name": "financeReady",
+  "displayName": "financeReady",
+  "expo": {
+    "name": "financeReady",
+    "slug": "financeReady",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
